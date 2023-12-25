@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carefree-villager&label=Profile%20views&color=0e75b6&style=flat" alt="carefree-villager" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://carefree-villager.github.io/](https://carefree-villager.github.io/)
+- 👨‍💻 All of my projects are available at [carefree-villager.github.io/](https://carefree-villager.github.io/)
 
 - 💬 Ask me about **React, JS or Node.js**
 
