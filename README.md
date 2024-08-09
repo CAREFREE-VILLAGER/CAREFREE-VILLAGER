@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Don't ask me to smile in my photos**
 
-<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/carefree-villager/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=13930&format=png" alt="linkedin" width="40" height="40"/> </a></h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/carefree-villager/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=13930&format=png" alt="linkedin" /> </a></h3>
 <p align="left">
 </p>
 
