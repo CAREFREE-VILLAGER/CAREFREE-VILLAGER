@@ -20,7 +20,10 @@
   <a href="https://carefree-villager.github.io" target="_blank" rel="noreferrer" style="margin-left: 8px;">
     <img src="https://carefree-villager.github.io/static/media/logo.fd17d5809b5d7e78caa2.png" alt="portfolio" width="40" height="40" />
   </a>
-  
+
+  <a href="as314202@gmail.com" target="_blank" rel="noreferrer" style="margin-left: 8px;">
+    <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" alt="portfolio" width="40" height="40" />
+  </a>
 </div>
 
 
