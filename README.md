@@ -16,6 +16,11 @@
   <a href="https://www.linkedin.com/in/carefree-villager/" target="_blank" rel="noreferrer" style="margin-left: 8px;">
     <img src="https://img.icons8.com/?size=48&id=13930&format=png" alt="linkedin" width="40" height="40" />
   </a>
+
+  <a href="https://carefree-villager.github.io" target="_blank" rel="noreferrer" style="margin-left: 8px;">
+    <img src="https://carefree-villager.github.io/static/media/logo.fd17d5809b5d7e78caa2.png" alt="portfolio" width="40" height="40" />
+  </a>
+  
 </div>
 
 
