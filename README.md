@@ -11,12 +11,13 @@
 
 - ⚡ Fun fact **Don't ask me to smile in my photos**
 
-<h3 align="left">
-  Connect with me: 
+<h3 align="left" style="line-height: 40px;">
+  Connect with me:
   <a href="https://www.linkedin.com/in/carefree-villager/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=48&id=13930&format=png" alt="linkedin" width="40" height="40" style="vertical-align: middle;" />
+    <img src="https://img.icons8.com/?size=48&id=13930&format=png" alt="linkedin" width="40" height="40" />
   </a>
 </h3>
+
 
 <p align="left">
 </p>
